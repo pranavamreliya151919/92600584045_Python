@@ -1,4 +1,4 @@
-# Program to illustrate Tuples and Sets
+#6) Write a program to illustrate the use of tuples and sets with basic operations. 
 
 print("----- TUPLE -----")
 numbers = (10, 20, 30, 40, 50)
@@ -26,8 +26,5 @@ set1.remove(10)
 print("After removing 10:", set1)
 
 print("Union:", set1.union(set2))
-
 print("Intersection:", set1.intersection(set2))
-
 print("Difference:", set1.difference(set2))
-
