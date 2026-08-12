@@ -1,6 +1,8 @@
+#7) Write a program to create a dictionary and demonstrate dictionary methods and iteration. 
+
 student = {
-    "name": "Darshit",
-    "age": 21,
+    "name": "Pranav",
+    "age": 20,
     "course": "Python"
 }
 
