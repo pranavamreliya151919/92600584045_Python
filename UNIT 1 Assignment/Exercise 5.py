@@ -1,6 +1,7 @@
+#5) Write a program to create and manipulate lists using indexing slicing and list comprehensions. 
+
 # Creating a list
 numbers = [10, 20, 30, 40, 50]
-
 print("Original List:", numbers)
 
 # 1. Indexing
