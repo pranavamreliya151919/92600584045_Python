@@ -1,3 +1,5 @@
+#9) Write a program to define and use user-defined functions with different types of arguments. 
+
 # No argument
 def hello():
     print("Hello")
@@ -8,11 +10,11 @@ hello()
 def add(a, b):
     print(a + b)
 
-add(10, 20)
+add(15, 35)
 
 # Default argument
-def greet(name="Darshit"):
+def greet(name="Pranav Amreliya"):
     print("Hello", name)
 
 greet()
-greet("Rahul")
+greet("Abhijeet")
