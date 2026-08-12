@@ -1,4 +1,5 @@
 #3) Write a program to perform arithmetic relational and logical operations using Python operators.
+
 print("Arithmaic Operation")
 x=int(input("Enter Value of X:"))
 y=int(input("Enter Value of Y:"))
