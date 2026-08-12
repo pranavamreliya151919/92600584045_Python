@@ -1,3 +1,5 @@
+#10) Write a program to demonstrate recursion using factorial or Fibonacci series. 
+
 def factorial(n):
     if n == 0:
         return 1
@@ -5,5 +7,4 @@ def factorial(n):
         return n * factorial(n - 1)
 
 num = int(input("Enter a number: "))
-
 print("Factorial =", factorial(num))
