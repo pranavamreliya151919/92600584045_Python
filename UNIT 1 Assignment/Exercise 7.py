@@ -1,7 +1,7 @@
 #7) Write a program to create a dictionary and demonstrate dictionary methods and iteration. 
 
 student = {
-    "name": "Pranav",
+    "name": "Pranav Amreliya",
     "age": 20,
     "course": "Python"
 }
@@ -15,7 +15,7 @@ print(student.values())
 print(student.items())
 
 # Add value
-student["city"] = "Gujarat"
+student["city"] = "Rajkot"
 
 # Iteration
 for key, value in student.items():
